@@ -1,0 +1,19 @@
+Institución: Liceo UPG
+Año: 2022
+Descripción: Docente de la generación de Ingeniería en Sistemas Computacionales
+
+Institución: UVM Texcoco
+Año: 2016
+Descripción: Asesor de la mejor práctica profesional
+
+Institución: Liceo UPG
+Año: 2016
+Descripción: Conferencia “AUTOMATIZACIÓN DE UN SIT USANDO TECNOLOGÍAS DE LICENCIA LIBRE”
+
+Institución: UVM
+Año: 2015
+Descripción: Puntualidad y constancia
+
+Institución: UVM
+Año: 2015
+Descripción: Ponente del curso-taller “LEGO”

@@ -1,0 +1,23 @@
+Empresa: Concepto móvil
+Puesto:	Desarrollador Java
+Fecha:	2022 - actualidad
+Descripción: Análisis y desarrollo de soluciones para la plataforma Broadcaster Mobile; tanto para APIs como para conectores de procesamiento masivo y de cronjobs. Encargado del desarrollo del Back-End de la tienda en línea de la plataforma Venta Chat
+
+
+Empresa: Liceo Unidad Pedro de Gante
+Puesto:	Académico a nivel licenciatura y maestría
+Fecha:	2017 - 2022
+Descripción: Académico de asignatura en la maestría en "Sistemas Computacionales Distribuidos". Académico de asignatura en la carrera de "Ingeniería en Sistemas Computacionales". Director de tesis: 2 nivel licenciatura y 2 nivel maestría
+
+
+Empresa: Concepto móvil
+Puesto:	Académico a nivel licenciatura
+Fecha:	2015 - 2022
+Descripción: Académico de asignatura en la carrera de "Ingeniería en Sistemas Computacionales"
+
+
+Empresa: CECYTEM Texcoco
+Puesto:	Académico a nivel bachillerato técnico
+Fecha:	2015 - 2016
+Descripción: Académico de asignatura para bachillerato técnico
+

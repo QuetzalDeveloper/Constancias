@@ -1,0 +1,23 @@
+Proyecto: Sistema RitmoSport
+Año : 2023
+Descripción : Desarrollo de un sistema de control de acceso, usuarios y pagos para el gimnasio RitmoSport, ubicado en San Luis Huexotla. Texcoco
+GitHub: https://github.com/QuetzalDeveloper/GymnasioRestJson
+
+Proyecto: Mi Asistencia
+Año : 2022
+Descripción : Desarrollo de applicación para dispositivos Android. Control de asistencia de alumnos para docentes
+GitHub: https://github.com/QuetzalDeveloper/MiAsistenciaAndroid
+
+Proyecto: El Manjar
+Año : 2021
+Descripción : Desarrollo de un sistema restaurantero de administración y comandas especifico, para el Restaurante Gourmet El Manjar, ubicado en Chicoloapan, Estado de México.
+GitHub: https://github.com/QuetzalDeveloper/RestauranteStanAlone
+
+Proyecto: Texcoplan Auto
+Año : 2019
+Descripción : Desarrollo de un sistema de cotizaciones y generador de contratos para la empresa Texcoplan Auto ubicado en Texcoco. Estado de México.
+GitHub: https://github.com/QuetzalDeveloper/CreditoAutoJavaMySQL
+
+Proyecto: Enega
+Año : 2015
+Descripción : Desarrollo de un sistema para el control de producción de toallas para la empresa Enega, ubicada en Chiconcuac de Juárez.
